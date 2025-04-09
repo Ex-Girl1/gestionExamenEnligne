@@ -44,7 +44,7 @@ Développer une plateforme web interactive de gestion des examens en ligne inté
 ![image](https://github.com/user-attachments/assets/34236d33-2785-471e-a2c6-c012fae55b9e)
 
 ---
-## 🗺️ **Modèle conceptuel de la base généré ** 
+## 🗺️ **Modèle conceptuel de la base généré** 
 ![image](https://github.com/user-attachments/assets/b3eb4230-8f68-4d2f-8eeb-a5df9c6376d5)
 
 ---
