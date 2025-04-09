@@ -49,15 +49,26 @@ Développer une plateforme web interactive de gestion des examens en ligne inté
 
 ---
 ## 🧪 **Execution des tests dans la console**
-![image](https://github.com/user-attachments/assets/d699acda-b4ae-48f8-bd70-87b883f3bc3a)
+![image](https://github.com/user-attachments/assets/8f472bcf-db37-4ffe-85d1-8260eb795466)
+![image](https://github.com/user-attachments/assets/ff3d304e-c87d-4270-85cd-f02d765d5a9d)
+![image](https://github.com/user-attachments/assets/d3ef2c5e-0f92-4f9f-a8ed-0c9157a7c8c3)
+![image](https://github.com/user-attachments/assets/9f02f991-16c8-4506-9aae-f692ada174e2)
+![image](https://github.com/user-attachments/assets/42372fd6-5eb3-4be8-bf43-80464d6a65ac)
+![image](https://github.com/user-attachments/assets/499c7233-2f2d-4578-9bc0-e9f241407454)
+![image](https://github.com/user-attachments/assets/2db693d9-c6b6-465e-826d-27327b51b137)
+![image](https://github.com/user-attachments/assets/f7e55e16-ed53-4cea-be42-b60b2cca9440)
+![image](https://github.com/user-attachments/assets/4b4815ed-4f64-4e4e-bd0c-ffc73b2b0f8a)
+![image](https://github.com/user-attachments/assets/2a5bd941-7887-41b1-82eb-c11684ce5142)
 
-![image](https://github.com/user-attachments/assets/3ad874c1-1254-4e61-8f7d-4424b111a688)
 
-![image](https://github.com/user-attachments/assets/86a9d374-ce45-452f-9001-cad05cbd7e9b)
 
-![image](https://github.com/user-attachments/assets/954f9ecb-4f29-4f61-9427-6e2f4cc7d976)
 
-![image](https://github.com/user-attachments/assets/4a1cb736-22b0-4b8e-92b3-7984200afbec)
+
+
+
+
+
+
 
 
 
